@@ -1,0 +1,13 @@
+{
+    "interval": "minute240",
+    "donchian_lookback": 24,
+    "backtest_results": {
+        "PF": 1.35,
+        "CumRet": 0.42,
+        "MDD": 0.25,
+        "Sortino": 0.065,
+        "WinRate": 0.58,
+        "AvgTrade": 0.012,
+        "Trades": 65
+    }
+}
